@@ -1,5 +1,6 @@
 // Creating a Snake Game via video below
 // https://www.youtube.com/watch?v=QTcIXok9wNY&t=813s
+
 import { update as updateSnake, draw as drawSnake, SNAKE_SPEED, getSnakeHead, snakeIntersection } from './snake.js'
 import { update as updateFood, draw as drawFood }  from './food.js'
 import { outsideGrid } from './grid.js'
