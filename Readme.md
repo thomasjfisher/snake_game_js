@@ -1,6 +1,6 @@
-# Snake Game
+# <a href="">My Snake Game</a>
 
-## Welcome to my <a href="https://tjf-snakegame.netlify.app/">Snake Game!</a>
+## Welcome to my Snake Game!
 
 I have recently started learning JavaScript, and thought it would be a great opportunity to create a game using JavaScript to help with my learning.
 
